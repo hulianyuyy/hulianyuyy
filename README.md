@@ -2,4 +2,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hulianyuyy&hide=commits,prs,contribs)
 
-
+### News:
+- We release AdaptSign, a CSLR model powered by frozen pretrained image models with 18.5% & 18.8% WER on phoenix2014, 18.6% & 19.8% WER on phoenix2014-T, 26.7% & 26.3% WER on CSL-Daily.
