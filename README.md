@@ -3,6 +3,6 @@
 ### News✉:
 - We release **AdaptSign**, a CSLR model powered by frozen pretrained image models with **18.5%** & **18.8%** WER on phoenix2014, **18.6%** & **19.8%** WER on phoenix2014-T, **26.7%** & **26.3% WER** on CSL-Daily.
 
-- We release ***DSTA-SLT**, which performs SLR with ***pure skeleton inputs*** but ahcieves comparable accuracy and much faster speed than recognition with RGB inputs.
+- We release **DSTA-SLR**, which performs sign language recognition (SLR) with ***pure skeleton inputs*** but ahcieves comparable accuracy and much faster speed than recognition with RGB inputs.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hulianyuyy&hide=commits,prs,contribs)
