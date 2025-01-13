@@ -3,7 +3,7 @@
 ### ✉ News:
 - We release [**iLLaVA**](https://arxiv.org/pdf/2412.06263), an efficient method for large vision language models by merging visual tokens. It could achieve about **2×** throughput and **1.7× - 2×** memory reduction with comparable performance through merging redundant visual tokens in some certain layers.
 
-- We release [**Deep Correletaed Prompting**](https://arxiv.org/pdf/2404.11111.pdf), which tackles the missing-modality scenarios by proposing three different types of prompting approaches, largely improving the robustness of large vision-language models.
+- We release [**Deep Correletaed Prompting**](https://arxiv.org/pdf/2410.06558), which tackles the missing-modality scenarios by proposing three different types of prompting approaches, largely improving the robustness of large vision-language models.
 
 - We release [**CorrNet+**](https://github.com/hulianyuyy/CorrNet_Plus), an unified model with superior performance on both **continuous sign language recognition** and **sign language translation** tasks by using **only RGB inputs**.
 
