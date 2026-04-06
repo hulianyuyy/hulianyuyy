@@ -1,4 +1,4 @@
-### Hi👋, i'm a PhD candidate (2021.09-now) in Tianjin University, China. My major interests include video understanding, sign language understanding and multi-modal learning. I'd like to let the people benefit more from general computer vision techniques. For more information, please visit www.hulianyu.top. Feel free to contact me via hly2021@tju.edu.cn.
+### Hi👋, i'm a Research Fellow at Nanyang Technological University. Previously, i obtained my PhD degree from Tianjin University, China in 2025.06. My major interests include multi-modal learning, video understanding and embodied learning. I'd like to let the people benefit more from general computer vision techniques. For more information, please visit www.hulianyu.top. Feel free to contact me via hly2021@tju.edu.cn.
 
 ### ✉ News:
 - We release [**iLLaVA**](https://arxiv.org/pdf/2412.06263), an efficient method for large vision language models by merging visual tokens. It could achieve about **2×** throughput and **1.7× - 2×** memory reduction with comparable performance through merging redundant visual tokens in some certain layers.
